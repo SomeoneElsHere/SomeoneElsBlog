@@ -2,29 +2,29 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/posts/automate-alarm/</loc>
+    <loc>https://SomeoneElsBlog.org/posts/automate-alarm/</loc>
     <lastmod>2025-09-01T09:41:19-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/</loc>
+    <loc>https://SomeoneElsBlog.org/posts/</loc>
     <lastmod>2025-09-01T09:41:19-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://SomeoneElsBlog.org/</loc>
     <lastmod>2025-09-01T09:41:19-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/java-server/</loc>
+    <loc>https://SomeoneElsBlog.org/posts/java-server/</loc>
     <lastmod>2025-09-01T09:41:07-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/stardew-chaosmod/</loc>
+    <loc>https://SomeoneElsBlog.org/posts/stardew-chaosmod/</loc>
     <lastmod>2025-09-01T09:40:54-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/mips-map/</loc>
+    <loc>https://SomeoneElsBlog.org/posts/mips-map/</loc>
     <lastmod>2025-09-01T09:40:32-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/posts/aa/</loc>
+    <loc>https://SomeoneElsBlog.org/posts/aa/</loc>
     <lastmod>2025-09-01T09:40:04-05:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
+    <loc>https://SomeoneElsBlog.org/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://SomeoneElsBlog.org/tags/</loc>
   </url>
 </urlset>

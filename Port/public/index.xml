@@ -2,45 +2,45 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>The SomeoneEls Blog</title>
-    <link>http://localhost:1313/</link>
+    <link>https://SomeoneElsBlog.org/</link>
     <description>Recent content on The SomeoneEls Blog</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Mon, 01 Sep 2025 09:41:19 -0500</lastBuildDate>
-    <atom:link href="http://localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://SomeoneElsBlog.org/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Automate Alarm</title>
-      <link>http://localhost:1313/posts/automate-alarm/</link>
+      <link>https://SomeoneElsBlog.org/posts/automate-alarm/</link>
       <pubDate>Mon, 01 Sep 2025 09:41:19 -0500</pubDate>
-      <guid>http://localhost:1313/posts/automate-alarm/</guid>
+      <guid>https://SomeoneElsBlog.org/posts/automate-alarm/</guid>
       <description>&lt;p&gt;This is a simple alarm I made with Automate; a cool app on Android that allows you to make scripts using a block coding language. The cool thing about this alarm is that, unlike other system alarms that automatically shut off if you don&amp;rsquo;t wake up in time, this one won&amp;rsquo;t. To shut it off you have to select the flow and stop the program. The buttons only give you some extra minutes. To use, download it and then import it on the home screen of Automate.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Java Server</title>
-      <link>http://localhost:1313/posts/java-server/</link>
+      <link>https://SomeoneElsBlog.org/posts/java-server/</link>
       <pubDate>Mon, 01 Sep 2025 09:41:07 -0500</pubDate>
-      <guid>http://localhost:1313/posts/java-server/</guid>
+      <guid>https://SomeoneElsBlog.org/posts/java-server/</guid>
       <description>&lt;p&gt;This is a simple server thing that I created a while back. To use, you&amp;rsquo;ll have to edit the CLIENT.java file.&lt;/p&gt;&#xA;&lt;p&gt;First, you want to have the Server file on one PC and the Client file on another (The RUN files are for testing). Both computers need to be on the same Wi-Fi. Change the Client file&amp;rsquo;s string (&amp;ldquo;RANDO_D&amp;rdquo;) on line 34 to be the name of the computer with the Server file. Run both files on their separate computers, and any text you type in the Client will be shown on the Server.&lt;/p&gt;</description>
     </item>
     <item>
       <title>Stardew Chaosmod</title>
-      <link>http://localhost:1313/posts/stardew-chaosmod/</link>
+      <link>https://SomeoneElsBlog.org/posts/stardew-chaosmod/</link>
       <pubDate>Mon, 01 Sep 2025 09:40:54 -0500</pubDate>
-      <guid>http://localhost:1313/posts/stardew-chaosmod/</guid>
+      <guid>https://SomeoneElsBlog.org/posts/stardew-chaosmod/</guid>
       <description>&lt;p&gt;Here is a long term project of mine, a mod for Stardew Valley! This is all written within C# using the SMAPI libraries and Harmony. There is a lot of stuff here, so look at the full explanation within the post.&lt;/p&gt;&#xA;&lt;p&gt;&lt;a href=&#34;https://forums.stardewvalley.net/resources/chaosmod-wip.153/&#34;&gt;https://forums.stardewvalley.net/resources/chaosmod-wip.153/&lt;/a&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>Mips Map</title>
-      <link>http://localhost:1313/posts/mips-map/</link>
+      <link>https://SomeoneElsBlog.org/posts/mips-map/</link>
       <pubDate>Mon, 01 Sep 2025 09:40:32 -0500</pubDate>
-      <guid>http://localhost:1313/posts/mips-map/</guid>
+      <guid>https://SomeoneElsBlog.org/posts/mips-map/</guid>
       <description>&lt;p&gt;Hi there! This is a simple graphics-thing that I made for MIPS using the MARS IDE.&lt;/p&gt;&#xA;&lt;p&gt;To use, it is recommended you use the MARS IDE.&lt;/p&gt;&#xA;&lt;p&gt;First, set the bitmap tool to the following settings: 2px for pixel width and height, 128px for window width and height, and then set the heap as the starting address. Connect it to the IDE and run it. It should show a little face :D&lt;/p&gt;</description>
     </item>
     <item>
       <title>AA</title>
-      <link>http://localhost:1313/posts/aa/</link>
+      <link>https://SomeoneElsBlog.org/posts/aa/</link>
       <pubDate>Mon, 01 Sep 2025 09:40:04 -0500</pubDate>
-      <guid>http://localhost:1313/posts/aa/</guid>
+      <guid>https://SomeoneElsBlog.org/posts/aa/</guid>
       <description>&lt;p&gt;This project was done some years ago, but is still pretty cool.&lt;/p&gt;&#xA;&lt;p&gt;It is part of the AAO case maker, and goes over a simple trial I made a couple years ago. It&amp;rsquo;s not very good, but it showcases some basic logic I was able to achieve with the service.&lt;/p&gt;&#xA;&lt;p&gt;Currently, the website is down, so uh&amp;hellip; wait till it&amp;rsquo;s up, I guess?&lt;/p&gt;</description>
     </item>
   </channel>
