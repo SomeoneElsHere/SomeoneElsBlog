@@ -10,5 +10,5 @@ This is a simple alarm I made with Automate; a cool app on Android that allows y
 
 
 
-<a href="static/Projects/Alarm.flo" download>Click here to download</a>
+<a href="Projects/Alarm.flo" download>Click here to download</a>
 
