@@ -22,5 +22,5 @@ You can use the 'methods' that I created, that being the writeDot method and the
 
 
 
-<a href="/Projects/map.asm" download>Click here to download</a>
+[Download Here](/SomeoneElsBlog/downloads/map.asm)
 

@@ -10,5 +10,5 @@ This is a simple alarm I made with Automate; a cool app on Android that allows y
 
 
 
-[flo](/SomeoneElsBlog/downloads/Alarm.flo)
+[Download Here](/SomeoneElsBlog/downloads/Alarm.flo)
 
