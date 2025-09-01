@@ -1,0 +1,7 @@
+baseURL = 'https://SomeoneElsBlog.org/'
+languageCode = 'en-us'
+title = 'The SomeoneEls Blog'
+theme = 'SomeoneElsTheme'
+ignoreLogs = ['warning-goldmark-raw-html']
+[markup.goldmark.renderer]
+unsafe = true

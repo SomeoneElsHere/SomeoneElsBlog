@@ -1,0 +1,52 @@
+﻿body {
+    background-color: black;
+    color: white;
+    text-align: center;
+    padding-top: 25px;
+    padding-right: 100px;
+    padding-bottom: 100px;
+    padding-left: 100px;
+    border: solid;
+    border-block-color: white;
+    font-family: 'Sans Serif Collection';
+}
+li {
+    color: #e3e3e3;
+    text-align: left;
+    font-size: 30px;
+}
+h2 {
+    text-align: left;
+    font-size: 40px;
+    padding-top: 25px;
+    padding-right: 100px;
+    padding-left: 100px;
+}
+h1 {
+    text-align: left;
+    font-size: 20px;
+    
+    padding-right: 100px;
+    padding-left: 100px;
+}
+
+p {
+    color: #e3e3e3;
+    text-align: left;
+    font-size: 20px;
+    padding-top: 0px;
+    padding-right: 100px;
+    padding-bottom: 0px;
+    padding-left: 100px;
+}
+
+a {
+    background-color: white;
+    color: black;
+    text-align: center;
+    padding-top: 10px;
+    padding-right: 25px;
+    padding-bottom: 10px;
+    padding-left: 25px;
+    font-family: 'Sans Serif Collection';
+}
