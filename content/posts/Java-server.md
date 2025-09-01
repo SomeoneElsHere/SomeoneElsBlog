@@ -14,5 +14,5 @@ First, you want to have the Server file on one PC and the Client file on another
 
 
 
-<a href="/Projects/serverNEW.zip" download>Click here to download</a>
+[Download Here](/SomeoneElsBlog/downloads/serverNEW.zip)
 
