@@ -20,6 +20,10 @@ First, set the bitmap tool to the following settings: 2px for pixel width and he
 
 You can use the 'methods' that I created, that being the writeDot method and the doHorz and doVer methods. Use the corresponding registers and you should be fine. Emphasis on should. Anyways, have fun!
 
+[EDIT 1] 
+
+Now the map was edited with the new writeTextDecimal 0-9, writeTextCapital A-Z (capital), and writeTextPunct (:,!,.,?) functions! Keep in mind they operate on a 8 by 10 grid.
+On startup, the bitmap now should display "HELLO WORLD!"
 
 
 [Download Here](/SomeoneElsBlog/downloads/map.asm)
